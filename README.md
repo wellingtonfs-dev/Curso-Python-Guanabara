@@ -27,19 +27,19 @@
 - Exercício Python #014 - [Conversor de temperaturas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/tratando_dados_3_a_15/014.py)
 - Exercício Python #015 - [Aluguel de carros](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/tratando_dados_3_a_15/015.py)
 
-### Módulos
+#### Módulos
 
-- Exercício Python #16 - [Quebrando um número]
-- Exercício Python #17 - [Catetos e Hipotenusa]
-- Exercício Python #18 - [Seno, Cosseno e Tangente]
-- Exercício Python #19 - [Sorteando um item na lista]
-- Exercício Python #20 - [Sorteando uma ordem na lista]
-- Exercício Python #21 - [Tocando um MP3]
-- Exercício Python #22 - [Analisador de Textos]
-- Exercício Python #23 - [Separando dígitos de um número]
-- Exercício Python #24 - [Verificando as primeiras letras de um texto]
-- Exercício Python #25 - [Procurando uma string dentro de outra]
-- Exercício Python #26 - [Primeira e última ocorrência de uma string]
-- Exercício Python #27 - [Primeiro e último nome de uma pessoa]
+- Exercício Python #16 - [Quebrando um número](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/016.py)
+- Exercício Python #17 - [Catetos e Hipotenusa](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/017.py)
+- Exercício Python #18 - [Seno, Cosseno e Tangente](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/018.py)
+- Exercício Python #19 - [Sorteando um item na lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/019.py)
+- Exercício Python #20 - [Sorteando uma ordem na lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/020.py)
+- Exercício Python #21 - [Tocando um MP3](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/021.py)
+- Exercício Python #22 - [Analisador de Textos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/022.py)
+- Exercício Python #23 - [Separando dígitos de um número](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/023.py)
+- Exercício Python #24 - [Verificando as primeiras letras de um texto](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/024.py)
+- Exercício Python #25 - [Procurando uma string dentro de outra](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/025.py)
+- Exercício Python #26 - [Primeira e última ocorrência de uma string](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/026.py)
+- Exercício Python #27 - [Primeiro e último nome de uma pessoa](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/027.py)
 
 
