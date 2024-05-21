@@ -42,4 +42,31 @@
 - Exercício Python #26 - [Primeira e última ocorrência de uma string](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/026.py)
 - Exercício Python #27 - [Primeiro e último nome de uma pessoa](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/027.py)
 
+### Condições(parte 1)
+
+- Exercício Python #28 - [Jogo de Adivinhação](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/028.py)
+- Exercício Python #29 - [Radar eletrônico](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/029.py)
+- Exercício Python #30 - [Par ou Impar](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/030.py)
+- Exercício Python #31 - [Custo de Viagem](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/031.py)
+- Exercício Python #32 - [Ano Bissexto](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/032.py)
+- Exercício Python #33 - [Maior e menor valores](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/033.py)
+- Exercício Python #34 - [Aumento múltiplos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/034.py)
+- Exercício Python #35 - [Analisando Triângulo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/condicoes_28_a_35/035.py)
+
+  ## Mundo 2
+
+  ### Condições(parte 2)
+
+  - Exercício Python #36 - [Aprovando empréstimo]()
+  - Exercício Python #37 - [Conversor de Bases Numéricas]()
+  - Exercício Python #38 - [Comparando números]()
+  - Exercício Python #39 - [Alistamento Militar]()
+  - Exercício Python #40 - [Aquele clássico da Média]()
+  - Exercício Python #41 - [Classificando Atletas]()
+  - Exercício Python #42 - [Analisando Triângulos V.2]()
+  - Exercício Python #43 - [Índice de Massa Corporal]()
+  - Exercício Python #44 - [Gerenciador de Pagamentos]()
+  - Exercício Python #45 - [Game: Pedra, Papel e Tesoura]()
+
+
 
