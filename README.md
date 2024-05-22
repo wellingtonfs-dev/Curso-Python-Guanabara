@@ -57,16 +57,16 @@
 
   ### Condições(parte 2)
 
-  - Exercício Python #36 - [Aprovando empréstimo]()
-  - Exercício Python #37 - [Conversor de Bases Numéricas]()
-  - Exercício Python #38 - [Comparando números]()
-  - Exercício Python #39 - [Alistamento Militar]()
-  - Exercício Python #40 - [Aquele clássico da Média]()
-  - Exercício Python #41 - [Classificando Atletas]()
-  - Exercício Python #42 - [Analisando Triângulos V.2]()
-  - Exercício Python #43 - [Índice de Massa Corporal]()
-  - Exercício Python #44 - [Gerenciador de Pagamentos]()
-  - Exercício Python #45 - [Game: Pedra, Papel e Tesoura]()
+  - Exercício Python #36 - [Aprovando empréstimo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/036.py)
+  - Exercício Python #37 - [Conversor de Bases Numéricas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/037.py)
+  - Exercício Python #38 - [Comparando números](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/038.py)
+  - Exercício Python #39 - [Alistamento Militar](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/039.py)
+  - Exercício Python #40 - [Aquele clássico da Média](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/040.py)
+  - Exercício Python #41 - [Classificando Atletas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/041.py)
+  - Exercício Python #42 - [Analisando Triângulos V.2](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/042.py)
+  - Exercício Python #43 - [Índice de Massa Corporal](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/043.py)
+  - Exercício Python #44 - [Gerenciador de Pagamentos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/044.py)
+  - Exercício Python #45 - [Game: Pedra, Papel e Tesoura](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/045.py)
 
 
 
