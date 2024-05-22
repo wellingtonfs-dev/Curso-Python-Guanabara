@@ -5,7 +5,3 @@ print('\033[30:42mteste\033[m') #verde
 print('\033[mteste\033[m') #preto
 print('\033[7:30mteste\033[m') #branco
 
-resultado = 19 // 2
-resultado2 = 19 % 2
-print(resultado)
-print(resultado2)
