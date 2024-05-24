@@ -70,17 +70,17 @@
 
   ### Repetições(for)
 
-  - Exercício Python #46 - [Contagem regressiva]()
-  - Exercício Python #47 - [Contagem de pares]()
-  - Exercício Python #48 - [Soma ímpares múltiplos de três]()
-  - Exercício Python #49 - [Tabuada]()
-  - Exercício Python #50 - [Soma dos pares]()
-  - Exercício Python #51 - [Progressão Aritmética]()
-  - Exercício Python #52 - [Números primos]()
-  - Exercício Python #53 - [Detector de Palíndromo]()
-  - Exercício Python #54 - [Grupo da maioridade]()
-  - Exercício Python #55 - [Maior e menor sequência]()
-  - Exercício Python #56 - [Analisador completo]()
+  - Exercício Python #46 - [Contagem regressiva](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/046.py)
+  - Exercício Python #47 - [Contagem de pares](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/047.py)
+  - Exercício Python #48 - [Soma ímpares múltiplos de três](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/048.py)
+  - Exercício Python #49 - [Tabuada](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/049.py)
+  - Exercício Python #50 - [Soma dos pares](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/050.py)
+  - Exercício Python #51 - [Progressão Aritmética](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/051.py)
+  - Exercício Python #52 - [Números primos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/052.py)
+  - Exercício Python #53 - [Detector de Palíndromo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/053.py)
+  - Exercício Python #54 - [Grupo da maioridade](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/054.py)
+  - Exercício Python #55 - [Maior e menor sequência](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/055.py)
+  - Exercício Python #56 - [Analisador completo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/056.py)
 
 
 
