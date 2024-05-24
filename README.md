@@ -68,5 +68,19 @@
   - Exercício Python #44 - [Gerenciador de Pagamentos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/044.py)
   - Exercício Python #45 - [Game: Pedra, Papel e Tesoura](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/condicoes_36_a_45/045.py)
 
+  ### Repetições(for)
+
+  - Exercício Python #46 - [Contagem regressiva]()
+  - Exercício Python #47 - [Contagem de pares]()
+  - Exercício Python #48 - [Soma ímpares múltiplos de três]()
+  - Exercício Python #49 - [Tabuada]()
+  - Exercício Python #50 - [Soma dos pares]()
+  - Exercício Python #51 - [Progressão Aritmética]()
+  - Exercício Python #52 - [Números primos]()
+  - Exercício Python #53 - [Detector de Palíndromo]()
+  - Exercício Python #54 - [Grupo da maioridade]()
+  - Exercício Python #55 - [Maior e menor sequência]()
+  - Exercício Python #56 - [Analisador completo]()
+
 
 
