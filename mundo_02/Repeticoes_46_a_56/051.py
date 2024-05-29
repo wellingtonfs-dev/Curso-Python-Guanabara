@@ -9,6 +9,6 @@ print('-=' *15)
 termo = int(input('Digite o primeiro termo: '))
 razao = int(input('Digite a razão: '))
 
-for c in range(termo, 10*razao, razao):
+for c in range(termo, 10*razao + 1, razao):
     print(c, end='->')
 print('FIM')
