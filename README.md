@@ -81,6 +81,28 @@
   - Exercício Python #54 - [Grupo da maioridade](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/054.py)
   - Exercício Python #55 - [Maior e menor sequência](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/055.py)
   - Exercício Python #56 - [Analisador completo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/Repeticoes_46_a_56/056.py)
+ 
+  ### Repetições(while)
+
+  - Exercício Python #57 - [Validação de dados](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/057.py)
+  - Exercício Python #58 - [Jogo de adivinhação v.2](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/058.py)
+  - Exercício Python #59 - [Criando um menu de opções](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/059.py)
+  - Exercício Python #60 - [Cálculo do fatorial](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/060.py)
+  - Exercício Python #61 - [Progressão Aritmética v.2](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/061.py)
+  - Exercício Python #62 - [Super Progressão Aritmética](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/062.py)
+  - Exercício Python #63 - [Sequência de Fibonacci](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/063.py)
+  - Exercício Python #64 - [Tratando vários valores](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/064.py)
+  - Exercício Python #65 - [Maior e menor valores](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/065.py)
+ 
+  ### Repetições(while)
+
+  - Exercício Python #66 - [Vários números com flag](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/066.py)
+  - Exercício Python #67 - [Tabuada v3]()
+  - Exercício Python #68 - [Jogo do Par ou Ímpar]()
+  - Exercício Python #69 - [Análise de dados do grupo]()
+  - Exercício Python #70 - [Estatísticas em produtos]()
+  - Exercício Python #71 - [Simulador de caixa eletrônico]()
+  
 
 
 
