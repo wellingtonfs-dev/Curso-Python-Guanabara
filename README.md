@@ -94,14 +94,14 @@
   - Exercício Python #64 - [Tratando vários valores](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/064.py)
   - Exercício Python #65 - [Maior e menor valores](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/065.py)
  
-  ### Repetições(while)
+  ### Repetições(while - break)
 
   - Exercício Python #66 - [Vários números com flag](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/066.py)
-  - Exercício Python #67 - [Tabuada v3]()
-  - Exercício Python #68 - [Jogo do Par ou Ímpar]()
-  - Exercício Python #69 - [Análise de dados do grupo]()
-  - Exercício Python #70 - [Estatísticas em produtos]()
-  - Exercício Python #71 - [Simulador de caixa eletrônico]()
+  - Exercício Python #67 - [Tabuada v3](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/067.py)
+  - Exercício Python #68 - [Jogo do Par ou Ímpar](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/068.py)
+  - Exercício Python #69 - [Análise de dados do grupo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/069.py)
+  - Exercício Python #70 - [Estatísticas em produtos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/070.py)
+  - Exercício Python #71 - [Simulador de caixa eletrônico](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/071.py)
   
 
 
