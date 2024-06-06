@@ -103,6 +103,28 @@
   - Exercício Python #70 - [Estatísticas em produtos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/070.py)
   - Exercício Python #71 - [Simulador de caixa eletrônico](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_02/repeticoes_57_a_71/071.py)
   
+## Mundo 3
 
+### Tuplas
 
+- Exercício Python #72 - [Número por extenso](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/072.py)
+- Exercício Python #73 - [Tuplas com times de futebol](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/073.py)
+- Exercício Python #74 - [Maior e menor valores](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/074.py)
+- Exercício Python #75 - [Análise de dados em uma tupla](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/075.py)
+- Exercício Python #76 - [Lista de preços com tupla](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/076.py)
+- Exercício Python #77 - [Contando vogais em tupla](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/077.py)
 
+###Listas
+
+- Exercício Python #78 - [Maior e menor valores na Lista]()
+- Exercício Python #79 - [Valores únicos em uma lista]()
+- Exercício Python #80 - [Lista ordenada sem repetições]()
+- Exercício Python #81 - [Extraindo dados de uma Lista]()
+- Exercício Python #82 - [Dividindo valores em várias listas]()
+- Exercício Python #83 - [Validando expressões matemáticas]()
+- Exercício Python #84 - [Lista composta e análise de dados]()
+- Exercício Python #85 - [Listas com pares e ímpares]()
+- Exercício Python #86 - [Matriz em Python]()
+- Exercício Python #87 - [Mais sobre Matriz em Python]()
+- Exercício Python #88 - [Palpites para a Mega Sena]()
+- Exercício Python #89 - [Boletim com listas compostas]()
