@@ -4,14 +4,14 @@
 
 ## Lista de exercícios resolvidos
 
-### Mundo 1
+## Mundo 1
 
-#### Primeiros passos
+### Primeiros passos
 
 - Exercício Python #01 - [Olá Mundo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/primeiros_passos_1_a_2/ex001.py)
 - Exercício Python #02 - [Seja bem vindo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/primeiros_passos_1_a_2/ex002.py)
 
-#### Cálculos e operações
+### Cálculos e operações
 
 - Exercício Python #03 - [Somando dois números](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/tratando_dados_3_a_15/003.py)
 - Exercício Python #04 - [Dissecando uma variável](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/tratando_dados_3_a_15/004.py)
@@ -27,7 +27,7 @@
 - Exercício Python #014 - [Conversor de temperaturas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/tratando_dados_3_a_15/014.py)
 - Exercício Python #015 - [Aluguel de carros](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/tratando_dados_3_a_15/015.py)
 
-#### Módulos
+### Módulos
 
 - Exercício Python #16 - [Quebrando um número](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/016.py)
 - Exercício Python #17 - [Catetos e Hipotenusa](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_01/usando_modulos_16_a_27/017.py)
@@ -114,7 +114,7 @@
 - Exercício Python #76 - [Lista de preços com tupla](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/076.py)
 - Exercício Python #77 - [Contando vogais em tupla](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/tuplas_72_a_77/077.py)
 
-###Listas
+### Listas
 
 - Exercício Python #78 - [Maior e menor valores na Lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/078.py)
 - Exercício Python #79 - [Valores únicos em uma lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/079.py)
