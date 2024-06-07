@@ -116,12 +116,12 @@
 
 ###Listas
 
-- Exercício Python #78 - [Maior e menor valores na Lista]()
-- Exercício Python #79 - [Valores únicos em uma lista]()
-- Exercício Python #80 - [Lista ordenada sem repetições]()
-- Exercício Python #81 - [Extraindo dados de uma Lista]()
-- Exercício Python #82 - [Dividindo valores em várias listas]()
-- Exercício Python #83 - [Validando expressões matemáticas]()
+- Exercício Python #78 - [Maior e menor valores na Lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/078.py)
+- Exercício Python #79 - [Valores únicos em uma lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/079.py)
+- Exercício Python #80 - [Lista ordenada sem repetições](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/080.py)
+- Exercício Python #81 - [Extraindo dados de uma Lista](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/081.py)
+- Exercício Python #82 - [Dividindo valores em várias listas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/082.py)
+- Exercício Python #83 - [Validando expressões matemáticas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/083.py)
 - Exercício Python #84 - [Lista composta e análise de dados]()
 - Exercício Python #85 - [Listas com pares e ímpares]()
 - Exercício Python #86 - [Matriz em Python]()
