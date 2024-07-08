@@ -128,3 +128,12 @@
 - Exercício Python #87 - [Mais sobre Matriz em Python](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/087.py)
 - Exercício Python #88 - [Palpites para a Mega Sena](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/088.py)
 - Exercício Python #89 - [Boletim com listas compostas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/listas_78_a_89/089.py)
+
+### Dicionário
+
+- Exercício Python #90 - [Dicionário](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/090.py)
+- Exercício Python #91 - [Jogo de Dados](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/091.py)
+- Exercício Python #92 - [Cadastro de Trabalhador](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/092.py)
+- Exercício Python #93 - [Cadastro de jogador](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/093.py)
+- Exercício Python #94 - [Unindo dicionários e listas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/094.py)
+- Exercício Python #95 - [Aprimorando os dicionários](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/095.py)
