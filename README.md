@@ -137,3 +137,17 @@
 - Exercício Python #93 - [Cadastro de jogador](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/093.py)
 - Exercício Python #94 - [Unindo dicionários e listas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/094.py)
 - Exercício Python #95 - [Aprimorando os dicionários](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/dicionarios_90_a_95/095.py)
+
+### Funções
+
+- Exercício Python #96 - [Função que calcula área](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/096.py)
+- Exercício Python #97 - [Um print especial](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/097.py)
+- Exercício Python #98 - [Função de Contador](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/098.py)
+- Exercício Python #99 - [Função que descobre o maior](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/099.py)
+- Exercício Python #100 - [Funções para sortear e somar](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/100.py)
+- Exercício Python #101 - [Funções para votação]()
+- Exercício Python #102 - [Função para Fatorial]()  
+- Exercício Python #103 - [Ficha do Jogador]()
+- Exercício Python #104 - [Validando entrada de dados em Python]()
+- Exercício Python #105 - [Analisando e gerando Dicionários]()
+- Exercício Python #106 - [Interactive helping system in Python]()
