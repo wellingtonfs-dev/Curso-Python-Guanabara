@@ -151,3 +151,13 @@
 - Exercício Python #104 - [Validando entrada de dados em Python](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/104.py)
 - Exercício Python #105 - [Analisando e gerando Dicionários](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/105.py)
 - Exercício Python #106 - [Interactive helping system in Python](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/funcoes_96_a_106/106.py)
+
+### Modularização
+
+- Exercício Python #107 - [Exercitando módulos](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/107)
+- Exercício Python #108 - [Formatando Moedas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/108)
+- Exercício Python #109 - [Formatando Moedas v2](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/109)
+- Exercício Python #110 - [Reduzindo ainda mais seu programa](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/110)
+- Exercício Python #111 - [Transformando módulos em pacotes](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/111)
+- Exercício Python #112 - [Entrada de dados monetários](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/112)
+  
