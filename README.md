@@ -160,4 +160,12 @@
 - Exercício Python #110 - [Reduzindo ainda mais seu programa](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/110)
 - Exercício Python #111 - [Transformando módulos em pacotes](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/111)
 - Exercício Python #112 - [Entrada de dados monetários](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/modulos_107_a_112/112)
+
+### Tratamento de erros
+
+- Exercício Python #113 - [Funções aprofundadas](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/erros_113_a_115/113.py)
+- Exercício Python #114 - [Site está acessível?](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/blob/main/mundo_03/erros_113_a_115/114.py)
+- Exercício Python #115 - [Criando um menu com arquivo](https://github.com/Wellingt0ndev/Exercicios_Curso_Python_Guanabara/tree/main/mundo_03/erros_113_a_115/ex115)
+
+
   
